@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "90da9a18e68f6b6a9726d9483a7c0cdb"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "b0fe4707df9b9654986a4971f08c15ce"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "bc6d00af8dbae8025206345f4af8f680"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "75f082d3c639b889380391a434ce1af3"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "fe6d474327baa0d066b03a0ae3c01fb8"
+    },
+    {
+        "path": "learn-quran-online-from-home-a-convenient-way-to-build-strong-quranic-skills",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-from-home-a-convenient-way-to-build-strong-quranic-skills/index.html",
+        "type": "file",
+        "md5": "837572cf31f256c01d0a9509feee1b64"
+    },
+    {
+        "path": "learn-quran-online-from-home-a-modern-path-to-mastering-the-holy-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-from-home-a-modern-path-to-mastering-the-holy-quran/index.html",
+        "type": "file",
+        "md5": "765baa677e4193b8d040da63e60eea5c"
+    },
+    {
+        "path": "learn-quran-online-from-home-the-smart-and-flexible-way-to-study-the-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-from-home-the-smart-and-flexible-way-to-study-the-quran/index.html",
+        "type": "file",
+        "md5": "08a464ad3fe351b26062d0e1c94bd29f"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-25.jfif",
+        "type": "file",
+        "md5": "df89c6d038aaed911fe68f5dc74b75dd"
+    },
+    {
+        "path": "quran-and-arabic-online-a-complete-path-to-mastering-faith-and-language",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-and-arabic-online-a-complete-path-to-mastering-faith-and-language/index.html",
+        "type": "file",
+        "md5": "a488d22306004181b140c19919d34486"
+    },
+    {
+        "path": "quran-and-arabic-online-a-modern-path-to-master-quran-recitation-and-arabic-fluency",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-and-arabic-online-a-modern-path-to-master-quran-recitation-and-arabic-fluency/index.html",
+        "type": "file",
+        "md5": "36d3fef39028892075d88ac5f7fb0b30"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "edaecbbef82a85c24d28ccf04b4434b1"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "ceedce2d681450f20f995ed5f799d529"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "e0c187a99791a41e88c8325a9f2a5b37"
+    }
+]
